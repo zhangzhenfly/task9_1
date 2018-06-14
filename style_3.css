@@ -1,0 +1,39 @@
+
+body,h2,h3{margin:0;padding:0;}
+#div2{border:1px #999 solid;
+      background-color:#999;
+      height:90px;
+      position:relative;
+	  margin:0;
+	  overflow:hidden;
+	  margin:10px auto 0 ;
+	  width:60%;
+}
+#div1{border-bottom:1px #ccc solid;
+      border-right:1px #ccc solid;
+      background-color:white;
+      padding:0px;
+	  height:120px;
+	  overflow:hidden;
+	    width:60%;
+		 margin:0 auto;
+     
+}
+#div3{
+	position:relative;
+	margin:0;
+	float:left;
+	height:119px;
+	width:120px;
+	background-color:#ccc;
+	text-align:center;;
+
+
+}
+#c,#d{color:white;margin-left:20px;margin-right:60px;display:inline-block;}
+span{white-space:pre-wrap;line-height:120px;}
+h2{line-height:120px;}
+b{margin-left:20px}
+p{white-space:pre-wrap;}
+#skinone,#skintwo,#skinthree{float:right;margin:30px 5px;}
+#one,#two{margin:20px 0;display:inline-block;}
